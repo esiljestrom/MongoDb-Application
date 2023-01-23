@@ -1,0 +1,12 @@
+C:\Users\ErikSiljeström-NET22\Documents\ITHS2022\Utveckling mot Databas och Databasadministration\Projekt\Company\Company.Common\bin\Debug\net6.0\Company.Common.deps.json
+C:\Users\ErikSiljeström-NET22\Documents\ITHS2022\Utveckling mot Databas och Databasadministration\Projekt\Company\Company.Common\bin\Debug\net6.0\Company.Common.dll
+C:\Users\ErikSiljeström-NET22\Documents\ITHS2022\Utveckling mot Databas och Databasadministration\Projekt\Company\Company.Common\bin\Debug\net6.0\Company.Common.pdb
+C:\Users\ErikSiljeström-NET22\Documents\ITHS2022\Utveckling mot Databas och Databasadministration\Projekt\Company\Company.Common\obj\Debug\net6.0\Company.Common.csproj.AssemblyReference.cache
+C:\Users\ErikSiljeström-NET22\Documents\ITHS2022\Utveckling mot Databas och Databasadministration\Projekt\Company\Company.Common\obj\Debug\net6.0\Company.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ErikSiljeström-NET22\Documents\ITHS2022\Utveckling mot Databas och Databasadministration\Projekt\Company\Company.Common\obj\Debug\net6.0\Company.Common.AssemblyInfoInputs.cache
+C:\Users\ErikSiljeström-NET22\Documents\ITHS2022\Utveckling mot Databas och Databasadministration\Projekt\Company\Company.Common\obj\Debug\net6.0\Company.Common.AssemblyInfo.cs
+C:\Users\ErikSiljeström-NET22\Documents\ITHS2022\Utveckling mot Databas och Databasadministration\Projekt\Company\Company.Common\obj\Debug\net6.0\Company.Common.csproj.CoreCompileInputs.cache
+C:\Users\ErikSiljeström-NET22\Documents\ITHS2022\Utveckling mot Databas och Databasadministration\Projekt\Company\Company.Common\obj\Debug\net6.0\Company.Common.dll
+C:\Users\ErikSiljeström-NET22\Documents\ITHS2022\Utveckling mot Databas och Databasadministration\Projekt\Company\Company.Common\obj\Debug\net6.0\refint\Company.Common.dll
+C:\Users\ErikSiljeström-NET22\Documents\ITHS2022\Utveckling mot Databas och Databasadministration\Projekt\Company\Company.Common\obj\Debug\net6.0\Company.Common.pdb
+C:\Users\ErikSiljeström-NET22\Documents\ITHS2022\Utveckling mot Databas och Databasadministration\Projekt\Company\Company.Common\obj\Debug\net6.0\ref\Company.Common.dll

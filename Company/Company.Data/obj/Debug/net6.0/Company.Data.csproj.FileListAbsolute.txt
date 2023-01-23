@@ -1,0 +1,15 @@
+C:\Users\ErikSiljeström-NET22\Documents\ITHS2022\Utveckling mot Databas och Databasadministration\Projekt\Company\Company.Data\bin\Debug\net6.0\Company.Data.deps.json
+C:\Users\ErikSiljeström-NET22\Documents\ITHS2022\Utveckling mot Databas och Databasadministration\Projekt\Company\Company.Data\bin\Debug\net6.0\Company.Data.dll
+C:\Users\ErikSiljeström-NET22\Documents\ITHS2022\Utveckling mot Databas och Databasadministration\Projekt\Company\Company.Data\bin\Debug\net6.0\Company.Data.pdb
+C:\Users\ErikSiljeström-NET22\Documents\ITHS2022\Utveckling mot Databas och Databasadministration\Projekt\Company\Company.Data\bin\Debug\net6.0\Company.Common.dll
+C:\Users\ErikSiljeström-NET22\Documents\ITHS2022\Utveckling mot Databas och Databasadministration\Projekt\Company\Company.Data\bin\Debug\net6.0\Company.Common.pdb
+C:\Users\ErikSiljeström-NET22\Documents\ITHS2022\Utveckling mot Databas och Databasadministration\Projekt\Company\Company.Data\obj\Debug\net6.0\Company.Data.csproj.AssemblyReference.cache
+C:\Users\ErikSiljeström-NET22\Documents\ITHS2022\Utveckling mot Databas och Databasadministration\Projekt\Company\Company.Data\obj\Debug\net6.0\Company.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ErikSiljeström-NET22\Documents\ITHS2022\Utveckling mot Databas och Databasadministration\Projekt\Company\Company.Data\obj\Debug\net6.0\Company.Data.AssemblyInfoInputs.cache
+C:\Users\ErikSiljeström-NET22\Documents\ITHS2022\Utveckling mot Databas och Databasadministration\Projekt\Company\Company.Data\obj\Debug\net6.0\Company.Data.AssemblyInfo.cs
+C:\Users\ErikSiljeström-NET22\Documents\ITHS2022\Utveckling mot Databas och Databasadministration\Projekt\Company\Company.Data\obj\Debug\net6.0\Company.Data.csproj.CoreCompileInputs.cache
+C:\Users\ErikSiljeström-NET22\Documents\ITHS2022\Utveckling mot Databas och Databasadministration\Projekt\Company\Company.Data\obj\Debug\net6.0\Company.Data.csproj.CopyComplete
+C:\Users\ErikSiljeström-NET22\Documents\ITHS2022\Utveckling mot Databas och Databasadministration\Projekt\Company\Company.Data\obj\Debug\net6.0\Company.Data.dll
+C:\Users\ErikSiljeström-NET22\Documents\ITHS2022\Utveckling mot Databas och Databasadministration\Projekt\Company\Company.Data\obj\Debug\net6.0\refint\Company.Data.dll
+C:\Users\ErikSiljeström-NET22\Documents\ITHS2022\Utveckling mot Databas och Databasadministration\Projekt\Company\Company.Data\obj\Debug\net6.0\Company.Data.pdb
+C:\Users\ErikSiljeström-NET22\Documents\ITHS2022\Utveckling mot Databas och Databasadministration\Projekt\Company\Company.Data\obj\Debug\net6.0\ref\Company.Data.dll
